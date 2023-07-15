@@ -10,7 +10,7 @@
   <div class="col-lg-8 mx-auto">
     <div class="card shadow">
       <div class="card-header bg-primary">
-        <h3 class="text-light fw-bold">Add New Post</h3>
+        <h3 class="text-light fw-bold">ເພີມໃໝ່</h3>
       </div>
       <div class="card-body p-4">
         <form action="/post" method="POST" enctype="multipart/form-data">
